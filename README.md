@@ -39,7 +39,7 @@
 
 | Proyecto | Descripción | Resultado |
 |---|---|---|
-| **Predicción de Exportaciones** | CatBoost, XGBoost y Regresión Lineal con datos BCRP 2005–2022. Pipeline ETL, app Django + React y dashboards Power BI | R² = **96.28%** · 🏆 FERCYT 2025 |
+| [**Predicción de Exportaciones**](https://sistema-exportaciones-fullstack.vercel.app/) | CatBoost, XGBoost y Regresión Lineal con datos BCRP 2005–2022. Pipeline ETL, app Django + React y dashboards Power BI | R² = **96.28%** · 🏆 FERCYT 2025 |
 | **Clasificación de Fracturas Óseas (CNN)** | Transfer learning con ResNet50, EfficientNet y MobileNet | Precisión **95.54%** · F1 > 0.94 |
 | **Predicción de Deserción Estudiantil** | Comparación de algoritmos de ML para detección temprana en la UNAMBA (tesis) | En desarrollo |
 | [**Kaggle: Compra de Vehículos Eléctricos**](https://github.com/KREMC/Kaggle-Predicting-Electric-Vehicle-Purchases) | Modelo de clasificación para competencia de Kaggle | Notebook |
@@ -48,8 +48,8 @@
 
 ### 📄 Publicaciones
 
-- **Clasificación de Fracturas Óseas Mediante Deep Learning (CNN)** — *Revista Riqchary, UNAMBA, 2024*
-- **Predicción de Exportaciones por Departamento con Machine Learning** — *Revista de Investigación Micaela, UNAMBA, 2025*
+- [**Clasificación de Fracturas Óseas Mediante Deep Learning (CNN)**](https://revistas.unamba.edu.pe/index.php/riqchary/article/view/212) — *Revista Riqchary, UNAMBA, 2024*
+- [**Predicción de Exportaciones por Departamento con Machine Learning**](https://revistas.unamba.edu.pe/index.php/micaela/article/view/235) — *Revista de Investigación Micaela, UNAMBA, 2025*
 
 ---
 
