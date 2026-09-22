@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/royer-elvis-moreano-condorcuya-95b287337/)">LinkedIn</a> ·
-  <a href="[https://www.kaggle.com/TU-USUARIO](https://www.kaggle.com/royerelvis)">Kaggle</a> ·
+  <a href="https://www.linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/royer-elvis-moreano-condorcuya-95b287337/">LinkedIn</a> ·
+  <a href="https://www.kaggle.com/TU-USUARIO](https://www.kaggle.com/royerelvis">Kaggle</a> ·
   <a href="mailto:1201remec@gmail.com">Email</a>
 </p>
